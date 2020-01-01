@@ -10,7 +10,7 @@
 - Matplotlib
 - OpenCV
 
-### Project Structure
+### File Structure
 
 - Practice.ipynb (Main File)
 
