@@ -1,7 +1,11 @@
-# KNN-Image-Classification
-## Pokemon Image Classification using KNN Algo
+# 🐱 KNN-Image-Classification
+> ## Pokemon Image Classification using KNN Algo
 
-### Notebook Used : Jupyter Notebook
+### Notebook Used: Jupyter Notebook
+
+### Algorithm Used
+
+- KNN
 
 ### Python Libraries Used
 
