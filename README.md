@@ -29,3 +29,11 @@
 	- Sample_submission.csv
 	- fin.csv 
 - practice.ipynb (Main File)
+
+## Contributing
+
+Feel free to dive in! [Open an issue](https://github.com/iampavangandhi/KNN-Image-Classification/issues/new) or submit PRs.
+
+## License
+
+[MIT](LICENSE) © Pavan Gandhi
